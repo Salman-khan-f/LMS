@@ -1,0 +1,14 @@
+{
+  "firstName": "Alice",
+  "lastName": "Walker",
+  "email": "alice.walker@example.com",
+  "phoneNumber": "+15551234567",
+  "dateOfBirth": "1990-01-01",
+  "address": "1TestSt",
+  "city": "Testville",
+  "state": "TS",
+  "zipCode": "12345",
+  "annualIncome": 50000.0,
+  "employmentStatus": "FULL_TIME",
+  "creditScore": 700
+}
