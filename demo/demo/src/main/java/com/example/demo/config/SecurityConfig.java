@@ -38,7 +38,8 @@ public class SecurityConfig implements WebMvcConfigurer {
                         "http://127.0.0.1:3000",
                         "http://localhost:3001",
                         "http://localhost:8080",
-                        "http://localhost:8081"
+                        "http://localhost:8081",
+                    "https://lms-mu-ruddy.vercel.app/"
                 )
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                 .allowedHeaders("*")
